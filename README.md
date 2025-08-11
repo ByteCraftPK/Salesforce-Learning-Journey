@@ -11,7 +11,7 @@ This repository tracks my progress on [Salesforce Trailhead](https://trailhead.s
 ## 📊 Progress Overview
 | Date       | Module / Rank  | Skills Learned                  | Badge |
 |------------|----------------|----------------------------------|-------|
-| 2025-08-11 | **Hiker Rank** | Earned first badge, started Beginner's Quest | ![Hiker Rank](badges/hiker-rank.png) |
+| 2025-08-11 | **Hiker Rank** | Earned first badge, started Beginner's Quest | ![Hiker Rank](badges/hiker.png) |
 
 ---
 
