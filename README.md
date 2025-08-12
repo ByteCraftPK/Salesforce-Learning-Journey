@@ -18,7 +18,7 @@ This repository tracks my progress on [Salesforce Trailhead](https://trailhead.s
 ---
 
 ## 🏆 Current Stats
-- **Badges Earned:** 3  
+- **Badges Earned:** 2  
 - **Rank:** Hiker  
 - **Superbadges:** 0  
 
