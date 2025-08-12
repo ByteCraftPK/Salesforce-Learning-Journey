@@ -1,4 +1,4 @@
-# Salesforce-Learning-Journey[README.md](https://github.com/user-attachments/files/21715976/README.md)
+[README.md](https://github.com/user-attachments/files/21731169/README.md)
 # 🚀 Salesforce Trailhead Learning Journey
 
 This repository tracks my progress on [Salesforce Trailhead](https://trailhead.salesforce.com/), including badges, ranks, and superbadges I earn along my learning path.
@@ -9,14 +9,16 @@ This repository tracks my progress on [Salesforce Trailhead](https://trailhead.s
 ---
 
 ## 📊 Progress Overview
-| Date       | Module / Rank  | Skills Learned                  | Badge |
-|------------|----------------|----------------------------------|-------|
-| 2025-08-11 | **Hiker Rank** | Earned first badge, started Beginner's Quest | ![Hiker Rank](badges/hiker.png) |
+| Date       | Module / Rank                                         | Skills Learned                                            | Badge |
+|------------|-------------------------------------------------------|-----------------------------------------------------------|-------|
+| 2025-08-11 | **Your Guide to Trailhead**                           | Trailhead navigation, profile setup, learning modules     | ![Your Guide to Trailhead](badges/your-guide-to-trailhead.png) |
+| 2025-08-11 | **Hiker Rank**                                        | Earned first badge, started Beginner's Quest              | ![Hiker Rank](badges/hiker-rank.png) |
+| 2025-08-12 | **Customize the User Interface for a Travel Approval App** | List views, page layouts, related lists, Chatter features | ![Customize UI for Travel Approval App](badges/customize-ui-travel-approval.png) |
 
 ---
 
 ## 🏆 Current Stats
-- **Badges Earned:** 1  
+- **Badges Earned:** 3  
 - **Rank:** Hiker  
 - **Superbadges:** 0  
 
