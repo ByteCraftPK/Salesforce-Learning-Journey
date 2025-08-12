@@ -11,9 +11,9 @@ This repository tracks my progress on [Salesforce Trailhead](https://trailhead.s
 ## 📊 Progress Overview
 | Date       | Module / Rank                                         | Skills Learned                                            | Badge |
 |------------|-------------------------------------------------------|-----------------------------------------------------------|-------|
-| 2025-08-11 | **Your Guide to Trailhead**                           | Trailhead navigation, profile setup, learning modules     | ![Your Guide to Trailhead](badges/Your Guide-to-Trailhead.png) |
+| 2025-08-11 | **Your Guide to Trailhead**                           | Trailhead navigation, profile setup, learning modules     | ![Your Guide to Trailhead](badges/Your-Guide-to-Trailhead.png) |
 | 2025-08-11 | **Hiker Rank**                                        | Earned first badge, started Beginner's Quest              | ![Hiker Rank](badges/hiker.png) |
-| 2025-08-12 | **Customize the User Interface for a Travel Approval App** | List views, page layouts, related lists, Chatter features | ![Customize UI for Travel Approval App](badges/Customize-Travel Approval-App.png) |
+| 2025-08-12 | **Customize the User Interface for a Travel Approval App** | List views, page layouts, related lists, Chatter features | ![Customize UI for Travel Approval App](badges/Customize-Travel-Approval-App.png) |
 
 ---
 
