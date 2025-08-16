@@ -18,7 +18,7 @@ This repository tracks my progress on [Salesforce Trailhead](https://trailhead.s
 | 2025-08-12 | **Add Business Logic to a Travel Approval App** | List views, page layouts, related lists, Chatter features | ![Customize UI for Travel Approval App](badges/Business_logic_travel_app.webp) |
 | 2025-08-12 | **User Management** | List views, page layouts, related lists, Chatter features | ![Customize UI for Travel Approval App](badges/user_management.png) |
 | 2025-08-16 | **Add Reports and Dashboards to a Travel Approval App** | List views, page layouts, related lists, Chatter features | ![Customize UI for Travel Approval App](badges/reports_dashboard_travel_app.webp) |
-| 2025-08-16 | **Quick Start: Reports & Dashboards** | List views, page layouts, related lists, Chatter features | ![Customize UI for Travel Approval App](badges/reports_dashboard_travel_app.webp) |
+| 2025-08-16 | **Quick Start: Reports & Dashboards** | List views, page layouts, related lists, Chatter features | ![Customize UI for Travel Approval App](badges/quick_start_reports_dashboards.png) |
 | 2025-08-16 | **Reports & Dashboards for Lightning Experience** | List views, page layouts, related lists, Chatter features | ![Customize UI for Travel Approval App](badges/lightning_reports_dashboards.png) |
 
 ---
