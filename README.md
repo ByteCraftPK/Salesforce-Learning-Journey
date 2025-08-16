@@ -32,11 +32,12 @@
 |------------|----------------------------------------------------------------|-------|
 | 2025-08-11 | **Your Guide to Trailhead**                                   | ![Badge](badges/Your-Guide-to-Trailhead.png) |
 | 2025-08-12 | **Build a Data Model for a Travel Approval App**              | ![Badge](badges/build-travel-app.png) |
-| 2025-08-12 | **Customize UI for a Travel Approval App**                    | ![Badge](badges/customize-Travel-Approval-App.png) |
+| 2025-08-12 | **Customize UI for a Travel Approval App**                    | ![Badge](badges/Customize-Travel-Approval-App.png) |
 | 2025-08-12 | **Add Business Logic to a Travel Approval App**               | ![Badge](badges/Business_logic_travel_app.webp) |
 | 2025-08-12 | **User Management**                                           | ![Badge](badges/user_management.png) |
 | 2025-08-16 | **Add Reports and Dashboards to a Travel Approval App**       | ![Badge](badges/reports_dashboard_travel_app.webp) |
 | 2025-08-16 | **Reports & Dashboards: Quick Look**                          | ![Badge](badges/quick_look_reports_dashboard.png) |
+| 2025-08-16 | **Reports & Dashboards: Quick Start**                          | ![Badge](badges/quick_start_reports_dashboards.png) |
 | 2025-08-16 | **Reports & Dashboards for Lightning Experience**             | ![Badge](badges/lightning_reports_dashboards.png) |
 
 ---
