@@ -51,6 +51,6 @@
 ---
 
 ## 🔗 Connect with Me
-[View My Trailhead Profile]([YOUR_TRAILHEAD_PROFILE_URL](https://www.salesforce.com/trailblazer/profile))
+[View My Trailhead Profile](https://www.salesforce.com/trailblazer/profile)
 
 
