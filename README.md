@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Trailhead%20Rank-Adventurer-blue?logo=salesforce" />
   <img src="https://img.shields.io/badge/Badges%20Earned-18-brightgreen" />
-  <img src="https://img.shields.io/badge/Superbadges-0-lightgrey" />
+ <!-- <img src="https://img.shields.io/badge/Superbadges-0-lightgrey" /> -->
 </p>
 
 ---
@@ -20,9 +20,9 @@
 ---
 
 ## 🔥 Current Status
-| Rank     | Total Badges | Superbadges | Current Focus                        |
-|----------|---------------|--------------|--------------------------------------|
-| **Adventurer** | **18** badges  | 0            | Lightning Web Components and Salesforce Dat |
+| Rank     | Total Badges | Current Focus |
+|----------|---------------|--------------------------------------|
+| **Adventurer** | **18** badges  | Lightning Web Components and Salesforce Data |
 
 ---
 
