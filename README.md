@@ -39,13 +39,13 @@
 | 2025-08-16 | **Reports & Dashboards: Quick Look**                          | ![Badge](badges/quick_look_reports_dashboard.png) |
 | 2025-08-16 | **Reports & Dashboards: Quick Start**                         | ![Badge](badges/quick_start_reports_dashboards.png) |
 | 2025-08-16 | **Reports & Dashboards for Lightning Experience**             | ![Badge](badges/lightning_reports_dashboards.webp) |
-| 2025-08-19 | **Apex Testing: Review Testing Fundamental**                  | ![Badge](badges/apextest.png) |
-| 2025-08-23 | **Quick Start: Visual Studio Code for Salesforce Development**                            | ![Badge](badges/atwut.wedp) |
-| 2025-08-23 | **Apex Basics & Database**                            | ![Badge](badges/atwut.wedp) |
+| 2025-08-19 | **Apex Testing: Review Testing Fundamental**                  | ![Badge](badges/apextestreview.webp) |
+| 2025-08-23 | **Quick Start: Visual Studio Code for Salesforce Development**                            | ![Badge](badges/qsvscode.wedp) |
+| 2025-08-23 | **Apex Basics & Database**                            | ![Badge](badges/apexbasic.png) |
 | 2025-08-23 | **Apex Testing: Write Unit Tests**                            | ![Badge](badges/atwut.wedp) |
 | 2025-08-24 | **Lightning Web Components Basics**                           | ![Badge](badges/lightweb.webp) |
 | 2025-08-24 | **Quick Start: Lightning Web Components**                     | ![Badge](badges/qslight.webp) |
-| 2025-08-24 | **Communicate Between Lightning Web Components**              | ![Badge](badges/apextest.png) |
+| 2025-08-24 | **Communicate Between Lightning Web Components**              | ![Badge](badges/lightcom.webp) |
 | 2025-08-24 | **Lightning Web Components and Salesforce Data**              | ![Badge](badges/lightningwebdata.webp) |
 | 2025-08-27 | **Apex Testing: Prepare for Unit Testing**                    | ![Badge](badges/apextest.webp) |
 
