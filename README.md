@@ -38,7 +38,7 @@
 | 2025-08-16 | **Add Reports and Dashboards to a Travel Approval App**       | ![Badge](badges/reports_dashboard_travel_app.webp) |
 | 2025-08-16 | **Reports & Dashboards: Quick Look**                          | ![Badge](badges/quick_look_reports_dashboard.png) |
 | 2025-08-16 | **Reports & Dashboards: Quick Start**                         | ![Badge](badges/quick_start_reports_dashboards.png) |
-| 2025-08-16 | **Reports & Dashboards for Lightning Experience**             | ![Badge](badges/lightning_reports_dashboards.webp) |
+| 2025-08-16 | **Reports & Dashboards for Lightning Experience**             | ![Badge](badges/lightning_reports_dashboards.png) |
 | 2025-08-19 | **Apex Testing: Review Testing Fundamental**                  | ![Badge](badges/apextestreview.webp) |
 | 2025-08-23 | **Quick Start: Visual Studio Code for Salesforce Development**                            | ![Badge](badges/qsvscode.wedp) |
 | 2025-08-23 | **Apex Basics & Database**                            | ![Badge](badges/apexbasic.png) |
