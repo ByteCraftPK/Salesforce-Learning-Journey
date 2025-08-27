@@ -1,8 +1,8 @@
 <h1 align="center">🌟 Salesforce Trailhead Journey — Pranjali Kulkarni 🌟</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Trailhead%20Rank-Hiker-blue?logo=salesforce" />
-  <img src="https://img.shields.io/badge/Badges%20Earned-8-brightgreen" />
+  <img src="https://img.shields.io/badge/Trailhead%20Rank-Adventurer-blue?logo=salesforce" />
+  <img src="https://img.shields.io/badge/Badges%20Earned-18-brightgreen" />
   <img src="https://img.shields.io/badge/Superbadges-0-lightgrey" />
 </p>
 
@@ -40,9 +40,9 @@
 | 2025-08-16 | **Reports & Dashboards: Quick Start**                         | ![Badge](badges/quick_start_reports_dashboards.png) |
 | 2025-08-16 | **Reports & Dashboards for Lightning Experience**             | ![Badge](badges/lightning_reports_dashboards.png) |
 | 2025-08-19 | **Apex Testing: Review Testing Fundamental**                  | ![Badge](badges/apextestreview.webp) |
-| 2025-08-23 | **Quick Start: Visual Studio Code for Salesforce Development**                            | ![Badge](badges/qsvscode.wedp) |
+| 2025-08-23 | **Quick Start: Visual Studio Code for Salesforce Development**                            | ![Badge](badges/qsvscode.webp) |
 | 2025-08-23 | **Apex Basics & Database**                            | ![Badge](badges/apexbasic.png) |
-| 2025-08-23 | **Apex Testing: Write Unit Tests**                            | ![Badge](badges/atwut.wedp) |
+| 2025-08-23 | **Apex Testing: Write Unit Tests**                            | ![Badge](badges/atwut.webp) |
 | 2025-08-24 | **Lightning Web Components Basics**                           | ![Badge](badges/lightweb.webp) |
 | 2025-08-24 | **Quick Start: Lightning Web Components**                     | ![Badge](badges/qslight.webp) |
 | 2025-08-24 | **Communicate Between Lightning Web Components**              | ![Badge](badges/lightcom.webp) |
