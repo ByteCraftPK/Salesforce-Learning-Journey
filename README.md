@@ -8,13 +8,13 @@
 
 ---
 
-> **Goal:** To become a Salesforce Certified Admin and reach the **Ranger** rank by continuous learning and hands-on practice.
+> **Goal:** To become a Salesforce Certified Admin and reach the **Mountaineer** rank by continuous learning and hands-on practice.
 
 ---
 
 ## 📊 Progress toward Ranger
 
-🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (8 / 100)
+🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (18 / 100)
 
 
 ---
@@ -22,7 +22,7 @@
 ## 🔥 Current Status
 | Rank     | Total Badges | Superbadges | Current Focus                        |
 |----------|---------------|--------------|--------------------------------------|
-| **Hiker** | **8** badges  | 0            | Salesforce Fundamentals, Reports & Dashboards |
+| **Adventurer** | **18** badges  | 0            | Lightning Web Components and Salesforce Dat |
 
 ---
 
@@ -37,14 +37,24 @@
 | 2025-08-12 | **User Management**                                           | ![Badge](badges/user_management.png) |
 | 2025-08-16 | **Add Reports and Dashboards to a Travel Approval App**       | ![Badge](badges/reports_dashboard_travel_app.webp) |
 | 2025-08-16 | **Reports & Dashboards: Quick Look**                          | ![Badge](badges/quick_look_reports_dashboard.png) |
-| 2025-08-16 | **Reports & Dashboards: Quick Start**                          | ![Badge](badges/quick_start_reports_dashboards.png) |
-| 2025-08-16 | **Reports & Dashboards for Lightning Experience**             | ![Badge](badges/lightning_reports_dashboards.png) |
+| 2025-08-16 | **Reports & Dashboards: Quick Start**                         | ![Badge](badges/quick_start_reports_dashboards.png) |
+| 2025-08-16 | **Reports & Dashboards for Lightning Experience**             | ![Badge](badges/lightning_reports_dashboards.webp) |
+| 2025-08-19 | **Apex Testing: Review Testing Fundamental**                  | ![Badge](badges/apextest.png) |
+| 2025-08-23 | **Quick Start: Visual Studio Code for Salesforce Development**                            | ![Badge](badges/atwut.wedp) |
+| 2025-08-23 | **Apex Basics & Database**                            | ![Badge](badges/atwut.wedp) |
+| 2025-08-23 | **Apex Testing: Write Unit Tests**                            | ![Badge](badges/atwut.wedp) |
+| 2025-08-24 | **Lightning Web Components Basics**                           | ![Badge](badges/lightweb.webp) |
+| 2025-08-24 | **Quick Start: Lightning Web Components**                     | ![Badge](badges/qslight.webp) |
+| 2025-08-24 | **Communicate Between Lightning Web Components**              | ![Badge](badges/apextest.png) |
+| 2025-08-24 | **Lightning Web Components and Salesforce Data**              | ![Badge](badges/lightningwebdata.webp) |
+| 2025-08-27 | **Apex Testing: Prepare for Unit Testing**                    | ![Badge](badges/apextest.webp) |
+
 
 ---
 
 ## 🎯 Goals for This Month
 - ✅ Complete Beginner’s Quest
-- 🔜 Reach **Explorer Rank**
+- 🔜 Reach **Mountaineer Rank**
 - 🔜 Continue Admin modules on User Security & Automation
 - ⭐ Start working on a **Superbadge**
 
